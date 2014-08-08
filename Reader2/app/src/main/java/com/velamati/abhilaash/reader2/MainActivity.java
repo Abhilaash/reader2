@@ -28,6 +28,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 
+//change by Prakash
+
 public class MainActivity extends Activity {
     public static final String WIFI = "Wi-Fi";
     public static final String ANY = "Any";
